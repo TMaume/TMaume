@@ -28,15 +28,15 @@
 
 # 📊 GitHub Stats :
 <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=tmaume">
+    <img src="https://komarev.com/ghpvc/?username=tmaume&label=Profile%20views&color=00FFFF&style=for-the-badge&" alt="tmaume's profile views" />
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/tmaume">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tmaume&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="tmaume's GitHub Stats" />
   </a> <br/>
   <img src="https://streak-stats.demolab.com/?user=tmaume&theme=prussian&hide_border=true&cache_seconds=86400" alt="tmaume's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=tmaume">
-    <img src="https://komarev.com/ghpvc/?username=tmaume&label=Profile%20views&color=00FFFF&style=for-the-badge&" alt="tmaume's profile views" />
-  </a>
 </p>
 </div>
 
