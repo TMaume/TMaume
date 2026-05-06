@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient&customColorList=6,11,20,29&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=180&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=180&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false"  />
 </div>
 
 <div align="center">
@@ -41,5 +41,5 @@
 </div>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=6,11,20,29&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50"  />
 </div>
