@@ -112,9 +112,9 @@
 
   <p>
     <a href="https://github.com/tmaume">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tmaume&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="tmaume's GitHub Stats" />
+      <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tmaume&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="tmaume's GitHub Stats" />
     </a>
-    <img height="180em" src="https://streak-stats.demolab.com/?user=tmaume&theme=prussian&hide_border=true&cache_seconds=86400&border_radius=10" alt="tmaume's GitHub Streak" />
+    <img width="49%" src="https://streak-stats.demolab.com/?user=tmaume&theme=prussian&hide_border=true&cache_seconds=86400&border_radius=10" alt="tmaume's GitHub Streak" />
   </p>
 </div>
 
