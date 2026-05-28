@@ -40,7 +40,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🎯 Recon Bolt (Revival)</h3>
+        <h3 align="center">🎯 Recon Bolt (Revived)</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Statut-Plus%20maintenu-d9534f?style=flat-square" alt="Projet plus maintenu" />
         </p>
