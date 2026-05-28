@@ -106,7 +106,7 @@
 
   <p>
     <a href="https://komarev.com/ghpvc/?username=tmaume">
-      <img src="https://komarev.com/ghpvc/?username=tmaume&label=Vues%20du%20profil&color=00FFFF&style=for-the-badge" alt="tmaume's profile views" />
+      <img src="https://komarev.com/ghpvc/?username=tmaume&label=Vues%20du%20profil&color=3db7e0&style=for-the-badge" alt="tmaume's profile views" />
     </a>
   </p>
 
