@@ -32,7 +32,7 @@
         <p align="center">
           <img src="https://img.shields.io/badge/Statut-En%20cours-28a745?style=flat-square" alt="Projet en cours" />
         </p>
-        <p align="center"><i>Custom OS Linux orienté PC Gaming. Interface "Frutiger Aero" 100% manette créer via Godot, conçue sur une base Arch Linux minimaliste avec session Wayland (Cage) pour une immersion console totale.</i></p>
+        <p align="center"><i>Custom OS Linux orienté PC Gaming. Interface "Frutiger Aero" 100% manette créé via Godot, conçue sur une base Arch Linux minimaliste avec session Wayland (Cage) pour une immersion console totale.</i></p>
         <p align="center">
           <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
           <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
