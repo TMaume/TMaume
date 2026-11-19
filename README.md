@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Timothy M.</h1>
+  <h1>TMaume</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4592D8&center=true&vCenter=true&width=600&lines=🎓+Étudiant+en+Informatique;💻+Développement+Logiciel;🚀+Objectif+:+Ingénieur+en+IA" alt="Typing SVG" />
