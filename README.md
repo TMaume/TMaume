@@ -30,7 +30,7 @@
       <td width="50%" valign="top">
         <h3 align="center">❄️ SkiiceOS</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Statut-En%20cours-28a745?style=flat-square" alt="Projet en cours" />
+          <img src="https://img.shields.io/badge/Statut-En%20cours-d99b26?style=flat-square" alt="Projet en cours" />
         </p>
         <p align="center"><i>Custom OS Linux orienté PC Gaming. Interface "Frutiger Aero" 100% manette créé via Godot, conçue sur une base Arch Linux minimaliste avec session Wayland (Cage) pour une immersion console totale.</i></p>
         <p align="center">
