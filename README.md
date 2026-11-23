@@ -40,17 +40,16 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🎯 Recon Bolt (Revived)</h3>
+        <h3 align="center">🎯 <a href="https://github.com/TMaume/Recon-Bolt-Revived">Recon Bolt (Revived)</a></h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Statut-Plus%20maintenu-d9534f?style=flat-square" alt="Projet plus maintenu" />
+          <img src="https://img.shields.io/badge/Statut-Maintenu-2ea44f?style=flat-square" alt="Projet maintenu" />
         </p>
         <p align="center">
-          <i>Restauration d'une app compagnon Valorant (SwiftUI). Rétro-ingénierie, déblocage des fonctionnalités Pro et recompilation en .ipa via Xcode (VM macOS).</i><br/>
-          <sub><i>(Arrêté suite à une perte d'intérêt pour le jeu)</i></sub>
+          <i>Reprise d'une app compagnon Valorant (SwiftUI) abandonnée depuis 2 ans suite à un takedown de Riot Games. Projet remis à jour et compilé via xtool avec actualisation des API et ajout de fonctionnalités.</i>
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
-          <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
+          <img src="https://img.shields.io/badge/xtool-181717?style=flat-square&logo=apple&logoColor=white" />
           <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
         </p>
       </td>
