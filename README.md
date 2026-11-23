@@ -40,7 +40,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🎯 <a href="https://github.com/TMaume/Recon-Bolt-Revived">Recon Bolt (Revived)</a></h3>
+        <h3 align="center">🎯 <a href="https://github.com/TMaume/Recon-Bolt-Revived">Recon Bolt Revived</a></h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Statut-Maintenu-2ea44f?style=flat-square" alt="Projet maintenu" />
         </p>
