@@ -91,13 +91,6 @@
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS" />
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   </p>
-    <!-- 
-  <br/>
-  <p><b>🌱 En cours d'apprentissage</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/Techno-000000?style=for-the-badge&logo=github&logoColor=white" alt="Techno" />
-  </p> 
-  -->
   </div>
 
 <br/>
